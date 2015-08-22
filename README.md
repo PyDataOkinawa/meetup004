@@ -7,6 +7,8 @@
 PyData.Okinawaについての紹介
 by Makoto Otsuka [@makotsuka55](https://twitter.com/makotsuka55)
 
+- [PyData.Okinawa Meetup 004 - 01 Introduction to PyData.Okinawa.ipynb](https://github.com/PyDataOkinawa/meetup004/blob/master/PyData.Okinawa%20Meetup%20004%20-%2001%20Introduction%20to%20PyData.Okinawa.ipynb)
+
 PyData.Okinawa NEWS
 - PyData.OkinawaのオフィシャルHPができました。[@masakyst](https://twitter.com/masakyst)さんありがとうございます。
 - [CodeZineの記事](http://codezine.jp/article/detail/8893)の中でPyData.Okinawaについて取り上げていただきました。[PyData.Tokyoのみなさん](https://twitter.com/PyDataTokyo)ありがとうございます。
@@ -14,8 +16,6 @@ PyData.Okinawa NEWS
 
 ライトニングトーク by [@GoingMyWayNet](https://twitter.com/goingmywaynet)さん
 「機械学習で沖縄の電力の需要予測をしてみた」
-
-- [PyData.Okinawa Meetup 004 - 01 Introduction to PyData.Okinawa.ipynb](https://github.com/PyDataOkinawa/meetup004/blob/master/PyData.Okinawa%20Meetup%20004%20-%2001%20Introduction%20to%20PyData.Okinawa.ipynb)
 
 ## モデル選択
 
